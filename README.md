@@ -2,4 +2,7 @@
 Collection of Android Apps (Source Code Only):
 
 ListApp:
-Android app implementing ListView using a simple CustomAdapter
+ListView using a simple CustomAdapter
+
+GridApp:
+GridView using a simple CustomAdapter
